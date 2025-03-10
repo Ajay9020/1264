@@ -4,8 +4,5 @@ this is for third commit
 this is for github
 this is for fifth commit
 this is for sixth commit
-<<<<<<< HEAD
 this is form git bash
-=======
-this is from git bash
->>>>>>> be92b6d5157ad6e54330fa8044117f854e3fa08a
+my roll number is 1264
